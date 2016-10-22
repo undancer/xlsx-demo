@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<workbook xmlns="http://schemas.openxmlformats.org/spreadsheetml/2006/main"
+          xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships">
+    <fileVersion appName="xl" lastEdited="5" lowestEdited="5" rupBuild="22905"/>
+    <workbookPr showInkAnnotation="0" autoCompressPictures="0"/>
+    <bookViews>
+        <workbookView xWindow="8880" yWindow="0" windowWidth="16280" windowHeight="13220" tabRatio="500"/>
+    </bookViews>
+    <sheets>
+        <sheet name="词汇全部提取20130411" sheetId="3" r:id="rId1"/>
+        <sheet name="综合学习-词汇" sheetId="8" r:id="rId2"/>
+        <sheet name="清除内容的词条备份" sheetId="9" r:id="rId3"/>
+    </sheets>
+    <definedNames>
+        <definedName name="_xlnm._FilterDatabase" localSheetId="0" hidden="1">词汇全部提取20130411!$D$1:$D$25329</definedName>
+        <definedName name="A">词汇全部提取20130411!$A$478</definedName>
+        <definedName name="h">词汇全部提取20130411!$H$5102</definedName>
+        <definedName name="J">词汇全部提取20130411!$J$15706</definedName>
+        <definedName name="k">词汇全部提取20130411!$K$18095</definedName>
+        <definedName name="啊7459">词汇全部提取20130411!$H$19838</definedName>
+        <definedName name="啊8628">词汇全部提取20130411!$I$7844</definedName>
+    </definedNames>
+    <calcPr calcId="140001" concurrentCalc="0"/>
+    <extLst>
+        <ext uri="{7523E5D3-25F3-A5E0-1632-64F254C22452}"
+             xmlns:mx="http://schemas.microsoft.com/office/mac/excel/2008/main">
+            <mx:ArchID Flags="2"/>
+        </ext>
+    </extLst>
+</workbook>
